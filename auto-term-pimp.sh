@@ -17,4 +17,4 @@ mv "$HOME/.zshrc" "$HOME/.zshrc-old"
 cp zshrc.txt  "$HOME/.zshrc"
 chsh -s "$(which zsh)"
 
-echo "Please restart your terminal/machine and enjoy your new zshell theme! :)"
+echo "Please restart your terminal and enjoy your new zshell theme! :)"
